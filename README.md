@@ -1,6 +1,6 @@
 # Harita projesi
 
-# Proje'de nokta işaretlemeleri yapılmakta
+# Proje'de belirli amaçlarla marker nokta işaretlemeleri yapılmakta ve notlar sekmesine eklenmektedir. Notlar sekmesinde gerekli ekleme kaldırma seçenekleride oluşturulmuştur.
 
 # Ekran görünüsü
 
