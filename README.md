@@ -1,8 +1,7 @@
 # Harita projesi
 
-# Projede nokta işaretlemeleri yapılmakta
+# Proje'de nokta işaretlemeleri yapılmakta
 
 # Ekran görünüsü
 
 # ![](map.gif)
-# Map-proje
